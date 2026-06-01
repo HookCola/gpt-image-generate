@@ -13,7 +13,7 @@ A [Codex](https://github.com/openai/codex) skill that turns plain-language image
 
 ```
 将下面提示词粘贴给AI：
-please install https://github.com/HookCola/gpt-image-generate this skill and read it ask me to give apikey in Chinese
+please install https://github.com/HookCola/gpt-image-generate this skill and read it ask me to get gpt-image-2 apikey in https://api.hookcola.top website and send it to agent in Chinese
 ```
 
 ## Setup
