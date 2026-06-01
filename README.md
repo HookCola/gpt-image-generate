@@ -11,8 +11,9 @@ A [Codex](https://github.com/openai/codex) skill that turns plain-language image
 
 ## Install
 
-```bash
-npx codex skills install https://github.com/HookCola/gpt-image-generate
+```
+Paste to AI：
+please install https://github.com/HookCola/gpt-image-generate this skill and read it ask me to give apikey in Chinese
 ```
 
 ## Setup
