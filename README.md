@@ -12,7 +12,7 @@ A [Codex](https://github.com/openai/codex) skill that turns plain-language image
 ## Install
 
 ```bash
-npx codex skills install https://github.com/hookcola/gpt-image-generate
+npx codex skills install https://github.com/HookCola/gpt-image-generate
 ```
 
 ## Setup
